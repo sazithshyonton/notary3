@@ -1,0 +1,186 @@
+/*Global CSS start */
+.btn{
+	height: 40px;
+	margin-top: 5px;
+	margin-left: 200px;
+	background:#BD233F;
+	color: white;
+	border-radius: 10px;
+
+}
+.btn:hover{
+	background: transparent;
+	color: black;
+	cursor: pointer;
+}
+/*Globat CSS ends */
+/* Navbar CSS Starts */
+.nav{
+	width: 100%;
+	height: 5px;
+}
+.head1{
+	float: left;
+}
+.head1 img{
+	width: 100px;
+	height: 100px;
+	margin-left: 200px;
+}
+.head2 ul li {
+	list-style: none;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+.head2 ul li a {
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+	margin-left: 25px;
+
+}
+.head2 ul li a:hover{
+	color: #A0144F;
+}
+/* Navber  CSS Ends */
+.bannar{
+	width: 100%;
+	height: 500px;
+	background: url(../img/bannar.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bannar h2{
+	margin-top: 100px;
+	margin-left: 200px;
+	line-height: 40px;
+	padding-top: 130px;
+	}
+.bannar p{
+	margin-left: 200px;
+	
+}
+
+/* bannar CSS Ends */ 
+
+/* Work CSS Starts */
+.workWrap{
+	width: 100%;
+	height: 450px;
+	margin-top: 90px;
+}
+.workflow h2{
+	text-align: center;
+	font-size: 35px;
+	text-transform: uppercase;
+}
+.workflow p{
+	text-align: center;
+	font-size: 18px;
+}
+
+.work-img{
+	height: 90px;
+	float: left;
+	margin-top: 50px;
+	padding-left: 200px;
+}
+.work-img img{
+	height: 150px;
+	margin-left: 10px;
+}
+.work-img p{
+	text-align: center;
+}
+/* Work  CSS Ends */ 
+
+/* Learn  CSS Starts */ 
+.learn-wrap{
+	height: 400px;
+	width: 100%;
+	background-color:#FAFAFA;
+}
+.learn{
+	float: left;
+	width: 50%;
+}
+.learn-left h2{
+	margin-top: 100px;
+	margin-left: 200px;
+}
+.learn-left p{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 200px;
+}
+.learn-right{
+	margin-top: 50px;
+}
+
+/* Learn  CSS Ends */ 
+
+/*Feature CSS Starts */
+.feature{
+	width: 100%;
+	height: 900px;
+}
+.feature h2{
+	padding-top: 30px;
+	text-align: center;
+}
+.feature p{
+	text-align: center;
+}
+
+.f-box{
+	width: 400px;
+	height: 250px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 30px;
+	background-color:#FAFAFA;
+	
+}
+.f-box img{
+	padding-left: 200px;
+	height: 80px;
+	width: 80px;
+}
+.f-box h3{
+	padding-left: 150px;
+}
+.f-box p{
+	text-align: center;
+	padding-left: 110px;
+}
+.f-btn{
+	height: 40px;
+	margin-top: 50px;
+	margin-left: 600px;
+	background:#FAFAFA;
+	color: #BD233F;
+	border: 1px solid white;
+}
+.f-btn:hover{
+	background: #BD233F;
+	color: white;
+	cursor: pointer;
+	border:  1px solid #BD233F;
+	border-radius: 5px;
+}
+/*Feature CSS Ends*/
+
+/*Copyright CSS Starts*/
+.copy{
+	width: 100%;
+	height: 50px;
+	background: #535D69;
+	color: white;
+}
+.copy h4{
+	padding-top: 15px;
+	padding-left: 400px;
+}
+/*Copyright  CSS ends */
